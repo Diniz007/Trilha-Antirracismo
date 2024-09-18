@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background: black;
+} 
+
+
+header {
+    border-bottom: solid 5px rgb(2, 112, 255);
+    padding: 10px;
+    font-size: 70px;
+    color: rgb(252, 1, 1);
+}
+
+body {
+    color: white;
+    background: rgb(0, 0, 0);
+    margin: 200px;
+}
+h1 { 
+    border-bottom: solid 5px rgb(9, 4, 83);
+    padding: 20px;
+    font-size: 70px;
+    color: rgb(236, 240, 239);
+
+
+}
